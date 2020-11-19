@@ -24,15 +24,6 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/trimstray/test-your-sysadmin-skills/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
-  </a>
-  <a href="LICENSE.md">
-    <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg?longCache=true" alt="MIT License">
-  </a>
-</p>
-
 <div align="center">
   <sub>Created by
   <a href="https://twitter.com/trimstray">trimstray</a> and
