@@ -25,16 +25,6 @@
   </a>
 </p>
 
-<div align="center">
-  <sub>Created by
-  <a href="https://twitter.com/trimstray">trimstray</a> and
-  <a href="https://github.com/trimstray/test-your-sysadmin-skills/graphs/contributors">contributors</a>
-</div>
-
-<br>
-
-****
-
 <br>
 
 :information_source: &nbsp;This project contains **284** test questions and answers that can be used as a test your knowledge or during an interview/exam for position such as **Linux (\*nix) System Administrator**.
